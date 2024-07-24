@@ -15,7 +15,6 @@ This project involves performing exploratory data analysis (EDA) on a Superstore
 - [Feature Engineering](#feature-engineering)
 - [Statistical Analysis](#statistical-analysis)
 - [Conclusions](#conclusions)
-- [How to Run](#how-to-run)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
 - [License](#license)
